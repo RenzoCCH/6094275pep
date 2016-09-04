@@ -12,6 +12,14 @@
   },
   "author": "Renzo Calla",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.14.3",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0"
+  },
+  "dependencies": {
+    "gulp-uglify": "^2.0.0",
+    "gulp-uglifycss": "^1.0.6",
+    "require-dir": "^0.3.0"
   }
 }
