@@ -1,0 +1,17 @@
+{
+  "name": "6094275pep",
+  "version": "1.0.0",
+  "description": "tools that will be used",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenzoCCH/6094275pep.git"
+  },
+  "author": "Renzo Calla",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
