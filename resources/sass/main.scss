@@ -1,0 +1,25 @@
+@import "compass";
+//------------------utilities----------------------------------------
+@import "utilities/mixins";
+@import "utilities/responsive__utilities";
+@import "utilities/animate";
+@import "utilities/reset";
+
+//-------------for cross browser suport------------------------------
+$browser-minimum-versions: ("chrome": null, "firefox": "4", "ie": "7", "safari": "6");
+
+//-------------font family-------------------------------------------
+html,body
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+///------------import utilities--------------------------------------
+@import "variables/variables";
+@import "variables/colors";
+@import "layout/layout";
+@import "layout/header";
+
+
+
+

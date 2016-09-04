@@ -1,0 +1,31 @@
+//@mixin setfadein($time:2s){
+//  @include animation(fadein $time);
+//}
+//.fadein{
+//  @include animation(fadein 2s);
+//}
+//.fadeout{
+//  @include animation(fadeout 2s);
+//}
+//@include keyframes(fadein)
+// {
+//   from { opacity: 0; }
+//   to   { opacity: 1; }
+// }
+//@include keyframes(fadeout)
+//{
+//  from { opacity: 1; }
+//  to   {
+//    opacity: 0;
+//  }
+//}
+//.fadein {
+//  display: block;
+//  opacity: 1;
+//  transition: opacity 2s linear;
+//}
+//.fadeout {
+//  display: none;
+//  opacity: 0;
+//  transition: visibility 0s 2s, opacity 2s linear;
+//}
