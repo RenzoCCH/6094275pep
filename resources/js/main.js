@@ -1,9 +1,6 @@
 /**
  * Created by Renzo on 9/4/2016.
  */
-alert(2);
-alert(2);
-alert(2);
-alert(2);
-alert(2);
-alert(2);
+alert(3
+);
+
