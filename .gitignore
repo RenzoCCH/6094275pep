@@ -3,3 +3,4 @@
 .sass-cache
 /dist/css
 /dist/js
+/bower_components
